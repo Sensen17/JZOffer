@@ -4,8 +4,7 @@ import java.util.LinkedList;
 import java.util.Queue;
 
 /**
- * @description
- * @date 2020/4/24
+ 层序遍历，从上往下打印二叉树
  */
 
 class TreeNode {
