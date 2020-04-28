@@ -3,8 +3,7 @@ package JZoffer;
 import java.util.Stack;
 
 /**
- * @description
- * @date 2020/4/24
+给出栈元素的压入序列，判断某一个弹出序列是否可能
  */
 
 public class Main21 {
